@@ -20,7 +20,9 @@ npm i --save-dev nodemon
   },
 ```
 
-3. run 
+run 
 ```shell
 npm run devStart
 ```
+3. STEP3:  render ejs (continued)
+https://www.youtube.com/watch?v=SccSCuHhOw0
