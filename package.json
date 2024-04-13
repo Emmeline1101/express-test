@@ -1,0 +1,27 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "This repository is for practicing Express.js",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emmeline1101/express-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emmeline1101/express-test/issues"
+  },
+  "homepage": "https://github.com/Emmeline1101/express-test#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
